@@ -1,6 +1,5 @@
 import { NavLink } from 'react-router-dom';
 import SamuraiLogo from "./images/samurai-logo.png";
-import './App.css';
 
 function App() {
   return (
